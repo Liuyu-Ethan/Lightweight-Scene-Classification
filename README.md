@@ -9,9 +9,9 @@ Remote sensing scene classification model of only 171KB size with 99.86% accurac
 
 #### 核心成果
 
-* **卓越的分类精度**：在 RSI-CB128 数据集上达到了 **99.86%** 的惊人准确率。
-* **极致的模型压缩**：最终模型大小仅为 **171 KB**，非常适合移动设备、边缘计算等对存储和计算资源有严格要求的应用场景。
-* **轻量化架构**：项目基于 MobileNetV2，利用其**倒残差块**（Inverted Residuals）和**线性瓶颈层**（Linear Bottlenecks）等核心设计，实现了高效的特征提取。
+* **准确率**：在 RSI-CB128 数据集上达到了 **99.86%** 的惊人准确率。
+* **轻量化**：最终模型大小仅为 **171 KB**，非常适合移动设备、边缘计算等对存储和计算资源有严格要求的应用场景。
+* **架构设计**：项目基于 MobileNetV2，利用其**倒残差块**（Inverted Residuals）和**线性瓶颈层**（Linear Bottlenecks）等核心设计，实现了高效的特征提取。
 
 ---
 
