@@ -2,7 +2,6 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 Remote sensing scene classification model of only 171KB size with 99.86% accuracy，base on RSI-CB128
 
-### Remote Sensing Scene Classification with MobileNetV2
 ## Introduction
 This is a lightweight convolutional neural network (CNN) model based on the **MobileNetV2** architecture, designed for efficient classification of 20 remote sensing scene classes in the **RSI-CB128** dataset. The project focuses on minimizing model size to the extreme while maintaining high accuracy, making it suitable for deployment in resource-constrained environments.
 
