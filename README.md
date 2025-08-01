@@ -62,10 +62,6 @@ python eval.py --model_type custom_cnn --weights_path ./custom_cnn_final.pth
 
 The code also includes comparative tests for VGG16, which can be trained and evaluated by setting command-line options.
 
-## License
-
-This project is licensed under the [MIT](LICENSE) .
-
 ## How to Cite
 
 If you use this project in your research, please consider citing:
