@@ -19,7 +19,7 @@ This is a lightweight convolutional neural network (CNN) model based on the **Mo
 #### Dataset
 
 This project uses the **RSI-CB128** dataset provided by Northwestern Polytechnical University.
-* **Dataset Description**: RSI-CB128 is an image dataset containing 20 classes of remote sensing scenes, widely used for research in remote sensing image classification tasks.
+* **Dataset Description**: RSI-CB128 is an image dataset containing 20 classes of remote sensing scenes(which is currently 45 classes), widely used for research in remote sensing image classification tasks.
 * **Dataset Link**: [https://github.com/lehaifeng/RSI-CB](https://github.com/lehaifeng/RSI-CB)
 
 ---
