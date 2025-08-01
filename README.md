@@ -10,6 +10,7 @@ This is a lightweight convolutional neural network (CNN) model based on the **Mo
 #### Features
 
 * **Accuracy**: Achieves an accuracy of **99.86%** on the RSI-CB128 dataset.
+* **Simplified**:Using RSI-CB128 with 20 classifications, if you need to implement the current 45 dataset provided by this dataset, you need to make light modifications and re-train it, with a training time of about 30 min
 * **Lightweight**: The final model size is only **171 KB**, making it ideal for applications on mobile devices, edge computing, and other scenarios with strict storage and computational resource requirements.
 * **Architecture Design**: The project is built upon MobileNetV2, utilizing its core design principles such as **Inverted Residuals** and **Linear Bottlenecks** to achieve efficient feature extraction.
 
